@@ -60,22 +60,8 @@ Configure an on-board switch pin as a GPIO input with an internal pull-up resist
 
 
 ---
-## OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## LOGIC
+<img width="458" height="103" alt="image" src="https://github.com/user-attachments/assets/8dffce89-7127-4675-8aa8-34d74f51c31e" />
 
 
 ---
